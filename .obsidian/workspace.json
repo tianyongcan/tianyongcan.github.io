@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-11-13-deeplearning.md",
+                "file": "_posts/2025-11-12-rk3588log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-13-deeplearning"
+              "title": "2025-11-12-rk3588log"
             }
           }
         ]
@@ -187,9 +187,9 @@
   "active": "15921b0ddb3185d7",
   "lastOpenFiles": [
     "_posts/2025-11-13-log.md",
+    "_posts/2025-11-13-deeplearning.md",
     "_posts/2025-11-12-test.md",
     "_posts/2025-11-12-rk3588log.md",
-    "_posts/2025-11-13-deeplearning.md",
     "_posts/2025-11-19-1.md",
     "assets/img/touxiang.jpg",
     "assets/img/vla_workflow.png",
